@@ -16,7 +16,7 @@ def won?(board)
 end
 
 def full?(board)
-  board.all?()
+  board.all?(|token|)
 end
 
 def draw?(board)
