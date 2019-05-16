@@ -16,14 +16,17 @@ def won?(board)
 end
 
 def full?(board)
-
+  
 end
 
 def draw?(board)
-
+  
 end
 
 def over?(board)
-
+  
 end
 
+def winner(board)
+  
+end
